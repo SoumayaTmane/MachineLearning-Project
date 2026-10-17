@@ -1,5 +1,5 @@
 ## MachineLearning-Project
-#Classification of Obesity Levels Based on Eating Habits and Physical Condition
+# Classification of Obesity Levels Based on Eating Habits and Physical Condition
 Team: Cinthia Ochoa Torre, Christina Dames, Soumaya Tmane
 
 ## Data Set
